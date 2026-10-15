@@ -2,7 +2,11 @@
 
 **Kurz „Stres v pěstounské péči“:** obsah PhDr. Petr Hroch.
 
-## Hlasy a zvuk (FOSS, komerčně použitelné)
+## Hlasy a zvuk
+
+Hlasy v kurzu jsou **syntetické (generované umělou inteligencí)**: Google Gemini TTS (Klára, Jan, Marek, Radka), placený tarif Gemini API. Zvuk je zpracován programově (ffmpeg), vizémy pro avatary vytvořil Rhubarb Lip Sync. Původní bezplatná verze (FOSS) používala komponenty z tabulky níže.
+
+### Komponenty původní FOSS verze (v historii repozitáře)
 
 | Komponenta | Autor / zdroj | Licence |
 |---|---|---|
